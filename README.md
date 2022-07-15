@@ -7,7 +7,7 @@ For the purposes of this license:
 - The term "Software" shall refer to TenjinJSE (this project).
 - The terms "System" and "Machine" shall refer to either a physical computer system or a virtual machine instance.
 
-If you are currently acting as a representative/employee of an organization, you must have the authority to enter into legal agreements on your organization's behalf; otherwise, you may not use the Software.
+I make this Software available exclusively for the purpose of demonstrating my skills in software development to prospective employers.
 
 You may download and/or run the Software on a testing/non-production System that you legally possess, **provided that you intend to make a thorough, good-faith evaluation of my application for employment at your business that is compliant with applicable law and is consistent with how you consider other applicants for the same position**. The duration of your use of the Software shall be limited to the time necessary for you to complete your evaluation. Upon your conclusion of such evaluation, you must stop using the Software.
 
