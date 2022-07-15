@@ -1,8 +1,7 @@
 # TenjinJSE
-JSE (Job Skills Evaluation) version of Tenjin ("Task Engine"), a project task management system. The JSE version does not contain any branding, trade-secret or customer information.
+JSE (Job Skills Evaluation) version of Tenjin ("Task Engine"), a project task management system. The JSE version does not contain any branding (or, it replaces it with generic alternatives), trade-secret, or customer information.
 
 ## IMPORTANT: License
----
 For the purposes of this license:
 - The terms of "Me", "My", and "I" refer to the Author, Hezron Castaneros.
 - The term "Software" shall refer to TenjinJSE (this project).
