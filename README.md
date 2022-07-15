@@ -7,13 +7,19 @@ For the purposes of this license:
 - The term "Software" shall refer to TenjinJSE (this project).
 - The terms "System" and "Machine" shall refer to either a physical computer system or a virtual machine instance.
 
-You (either a person, or an organization, if you are currently acting as a representative of a company or other legally recognized business entity) may browse the Software's source code, run the Software on a testing/non-production System you legally possess, etc., **strictly for the purpose of evaluating the proficiency of the author's skills and their applicability to a position of employment that the author has applied for at your business**.
+If you are currently acting as a representative/employee of an organization, you must have the authority to enter into legal agreements on your organization's behalf; otherwise, you may not use the Software.
 
-You may not run the Software on any System if you do not intend to make a thorough, good-faith consideration of my application for employment at your business. In addition, you are not permitted to:
-- Use the Software in any way whilst you are not currently considering my application for employment at your business.
+You may download and/or run the Software on a testing/non-production System that you legally possess, **provided that you intend to make a thorough, good-faith evaluation of my application for employment at your business that is compliant with applicable law and is consistent with how you consider other applicants for the same position**. The duration of your use of the Software shall be limited to the time necessary for you to complete your evaluation. Upon your conclusion of such evaluation, you must stop using the Software.
+
+You are not permitted to:
 - Run the Software on any System that is intended for production use or actual customer service.
 - Misrepresent the origin of the Software (that is, you may not claim that you or someone else wrote it).
-- Make any commercial use of the Software whatsoever, release derivative works based on the Software, or incorporate the Software or any part thereof into any other work, without my explicit written permission (whether or not you plan to employ me).
+- Distribute the Software or any part thereof under different license terms.
+- Make any production or commercial use of the Software whatsoever (including but not limited to selling copies of the Software or any of its components, or hosting instances of the Software with the purpose of selling or renting access to customers), release derivative works based on the Software, or incorporate the Software or any part thereof into any other work, without my explicit written permission (whether or not you plan to employ me).
 - Otherwise do anything else with the code that this license does not explicitly allow (and which is not permitted by fair use or other provisions of applicable law), AND/OR use the Software for any purpose that deviates from the intended purpose stated above.
 
-You use the Software ENTIRELY AT YOUR OWN RISK. I do not make any guarantee or warranty whatsoever as to the accuracy of the Software or its fitness for any purpose, and I hereby disclaim any and all warranties or guarantees of the aforementioned, whether express or implied. Under no circumstances shall I be held liable for any incidents, losses, damages, or failure to realize a business gain, arising either directly or indirectly from your use of the Software.
+In addition to the above, I strictly forbid use of the Software to perform research in order to prepare a patent claim against me, or assist any other person or entity in doing the same. If you do so, this shall be considered an egregious violation of this license and your license to use the Software automatically terminates immediately.
+
+You use the Software ENTIRELY AT YOUR OWN RISK. I make absolutely NO guarantees or warranties whatsoever as to the accuracy of the Software or its fitness for any purpose, and I hereby disclaim any and all warranties or guarantees of the aforementioned, whether express or implied. Under no circumstances shall I be held liable for any incidents, losses, damages, or failure to realize a business gain, arising either directly or indirectly from your use of the Software.
+
+In the event that any provision of this license is held to be unenforceable either by law or through legal proceeding, such provision(s) shall instead be enforced to the maximum extent legally permissible so as to best effectuate the reasonably-understood intent of the Author, and all other provision(s) of the license shall remain in full force and effect.
