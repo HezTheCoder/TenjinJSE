@@ -1,3 +1,5 @@
+**ATTENTION: All use of this Software is subject to the terms of the license. Please read the License section carefully.**
+
 # TenjinJSE
 JSE (Job Skills Evaluation) version of Tenjin ("Task Engine"), a project task management system. The JSE version does not contain any branding (or, it replaces it with generic alternatives), trade-secret, or customer information.
 
@@ -7,15 +9,17 @@ For the purposes of this license:
 - The term "Software" shall refer to TenjinJSE (this project).
 - The terms "System" and "Machine" shall refer to either a physical computer system or a virtual machine instance.
 
-I make this Software available exclusively for the purpose of demonstrating my skills in software development to prospective employers.
+I make this Software available exclusively for use for any of the following purposes ONLY:
+- for prospective employers to evaluate my fitness for employment in their businesses in a position relevant to the skills demonstrated in this work
+- for educational and academic use
 
-You may download and/or run the Software on a testing/non-production System that you legally possess, **provided that you intend to make a thorough, good-faith evaluation of my application for employment at your business that is compliant with applicable law and is consistent with how you consider other applicants for the same position**. The duration of your use of the Software shall be limited to the time necessary for you to complete your evaluation. Upon your conclusion of such evaluation, you must stop using the Software.
+You may download and/or run the Software on a testing/non-production System that you legally possess, **provided that it is for any of the two purpose(s) stated above**.
 
-You are not permitted to:
-- Run the Software on any System that is intended for production use or actual customer service.
+You are **NOT** permitted to:
+- Make any production use, customer service use, or commercial use of the Software whatsoever (including but not limited to selling copies of the Software or any of its components, or hosting instances of the Software with the purpose of selling or renting access to customers), release derivative works based on the Software, or incorporate the Software or any part thereof into any other work, without my explicit written permission (whether or not you plan to employ me).
+- Host the Software or any part thereof for download on another public repository, public file share or file exchange service, or otherwise any download source that is not exclusively accessible only to you and your organization.
 - Misrepresent the origin of the Software (that is, you may not claim that you or someone else wrote it).
 - Distribute the Software or any part thereof under different license terms.
-- Make any production or commercial use of the Software whatsoever (including but not limited to selling copies of the Software or any of its components, or hosting instances of the Software with the purpose of selling or renting access to customers), release derivative works based on the Software, or incorporate the Software or any part thereof into any other work, without my explicit written permission (whether or not you plan to employ me).
 - Otherwise do anything else with the code that this license does not explicitly allow (and which is not permitted by fair use or other provisions of applicable law), AND/OR use the Software for any purpose that deviates from the intended purpose stated above.
 
 In addition to the above, I strictly forbid use of the Software to perform research in order to prepare a patent claim against me, or assist any other person or entity in doing the same. If you do so, this shall be considered an egregious violation of this license and your license to use the Software automatically terminates immediately.
