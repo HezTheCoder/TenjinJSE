@@ -1,4 +1,4 @@
-**ATTENTION: All use of this Software is subject to the terms of the license. Please read the License section carefully.**
+**ATTENTION: All use of this Software (including reviewing my work for evaluating my job application) is subject to the terms of the license. Please read the License section carefully.**
 
 # TenjinJSE
 JSE (Job Skills Evaluation) version of Tenjin ("Task Engine"), a project task management system. The JSE version does not contain any branding (or, it replaces it with generic alternatives), trade-secret, or customer information.
@@ -20,7 +20,7 @@ You are **NOT** permitted to:
 - Host the Software or any part thereof for download on another public repository, public file share or file exchange service, or otherwise any download source that is not exclusively accessible only to you and your organization.
 - Misrepresent the origin of the Software (that is, you may not claim that you or someone else wrote it).
 - Distribute the Software or any part thereof under different license terms.
-- Otherwise do anything else with the code that this license does not explicitly allow (and which is not permitted by fair use or other provisions of applicable law), AND/OR use the Software for any purpose that deviates from the intended purpose stated above.
+- Otherwise do anything else with the Software that this license does not explicitly allow (and which is not permitted by fair use or other provisions of applicable law), AND/OR use the Software for any purpose that deviates from the intended purpose stated above.
 
 In addition to the above, I strictly forbid use of the Software to perform research in order to prepare a patent claim against me, or assist any other person or entity in doing the same. If you do so, this shall be considered an egregious violation of this license and your license to use the Software automatically terminates immediately.
 
