@@ -16,7 +16,8 @@ I make this Software available exclusively for use for any of the following purp
 You may download and/or run the Software on a testing/non-production System that you legally possess, **provided that it is for any of the two purpose(s) stated above**.
 
 You are **NOT** permitted to:
-- Make any production use, customer service use, or commercial use of the Software whatsoever (including but not limited to selling copies of the Software or any of its components, or hosting instances of the Software with the purpose of selling or renting access to customers), release derivative works based on the Software, or incorporate the Software or any part thereof into any other work, without my explicit written permission (whether or not you plan to employ me).
+- Make any production use, customer service use, or commercial use of the Software whatsoever (including, but not limited to, selling copies of the Software or any of its components, hosting instances of the Software with the purpose of selling or renting access to customers, and using the Software to improve or support your internal business processes), release derivative works based on the Software, or incorporate the Software or any part thereof into any other work, without my explicit written permission (whether or not you plan to employ me).
+- Run the Software on your System even after you have concluded your evaluation of my job skills and/or job application (even if for a non-commercial purpose).
 - Host the Software or any part thereof for download on another public repository, public file share or file exchange service, or otherwise any download source that is not exclusively accessible only to you and your organization.
 - Misrepresent the origin of the Software (that is, you may not claim that you or someone else wrote it).
 - Distribute the Software or any part thereof under different license terms.
